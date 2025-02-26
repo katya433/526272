@@ -8,6 +8,6 @@ int main(int argc, char *argv[])
 	cin >> a;
 	cin >> b;
 	cout << (a + b) << " ";
-	cout << (a  - b) << " ";
+	cout << (a - b) << " ";
 	cout << (a * b) << " ";
 }
